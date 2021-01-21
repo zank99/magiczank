@@ -1,0 +1,2 @@
+# magiczank
+Cooldown
